@@ -22,6 +22,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 https://shields.io/
+https://github.com/Ileriayo/markdown-badges
 -->
 
 ## 🔧 Technologies & Tools
